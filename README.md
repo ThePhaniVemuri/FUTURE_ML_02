@@ -64,7 +64,7 @@ We used the **Bank Customer Churn Dataset** containing demographic, account, and
 ## 📈 Power BI Dashboard  
 ![Churn Dashboard](Dashboard.png)  
 
-🔗 [Download the full Dashboard File](https://github.com/gkmr907/FUTURE_ML_02/blob/main/ML_Task_2.pbix)  
+🔗 [Download the full Dashboard File](https://github.com/ThePhaniVemuri/FUTURE_ML_02/blob/main/Ml_Task_2.pbix)  
 
 ---
 
